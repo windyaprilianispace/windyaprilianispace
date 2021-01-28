@@ -4,18 +4,11 @@
     An awesome Frontend Developer at <a href="https://www.idn.media">IDN Media</a>.  
 </h3>
 
-
-![age](https://img.shields.io/badge/age-25-red)
-![focus](https://img.shields.io/badge/focus-frontend-blue)
-![living](https://img.shields.io/badge/living-indonesia-white)
-
-## 🧐 About
-
-- 📫 How to reach me: windyapriliani1595@gmail.com
-- 🌱 Languages and Tools: 
-
-    <div>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-    </div>
+<h2 align="center">
+ 💥 Here are some technologies I use at work: 💥
+</h2>
+<p align="center">
+<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code>
+</p>
 
 ⭐️ From [Windy](https://github.com/windyaprilianispace)
