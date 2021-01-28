@@ -3,9 +3,12 @@
 <h3 align="center">
     An awesome Frontend Developer at <a href="https://www.idn.media">IDN Media</a>.  
 </h3>
+<p align="center>
+    <code><img height="300" src="https://github.com/windyaprilianispace/windyaprilianispace/blob/main/assets/coding.jpg" alt="Welcome to Windy's space" ></code>
+</p>
 
 <h2 align="center">
- 💥 Here are some technologies I use at work: 💥
+ 🚀 Here are some technologies I use at work: 🚀
 </h2>
 <p align="center">
 <code><img height="70" src="https://github.com/windyaprilianispace/windyaprilianispace/blob/main/assets/react.png"></code> &nbsp;&nbsp;
