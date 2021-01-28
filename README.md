@@ -8,7 +8,15 @@
  💥 Here are some technologies I use at work: 💥
 </h2>
 <p align="center">
-<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code>
+<code><img height="70" src="https://github.com/windyaprilianispace/windyaprilianispace/blob/main/assets/nextjs.png"></code> &nbsp;&nbsp;
+<code><img height="70" src="https://github.com/windyaprilianispace/windyaprilianispace/blob/main/assets/tailwindcss.svg"></code> &nbsp;&nbsp;
+<code><img height="100" src="https://github.com/windyaprilianispace/windyaprilianispace/blob/main/assets/swr.svg"></code>
+</p>
+
+<p align="center">
+<code><img height="70" src="https://github.com/windyaprilianispace/windyaprilianispace/blob/main/assets/javascript.png"></code> &nbsp;&nbsp;
+<code><img height="70" src="https://github.com/windyaprilianispace/windyaprilianispace/blob/main/assets/tailwindcss.svg"></code> &nbsp;&nbsp;
+<code><img height="100" src="https://github.com/windyaprilianispace/windyaprilianispace/blob/main/assets/swr.svg"></code>
 </p>
 
 ⭐️ From [Windy](https://github.com/windyaprilianispace)
