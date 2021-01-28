@@ -8,6 +8,7 @@
  💥 Here are some technologies I use at work: 💥
 </h2>
 <p align="center">
+<code><img height="70" src="https://github.com/windyaprilianispace/windyaprilianispace/blob/main/assets/react.png"></code> &nbsp;&nbsp;
 <code><img height="70" src="https://github.com/windyaprilianispace/windyaprilianispace/blob/main/assets/nextjs.png"></code> &nbsp;&nbsp;
 <code><img height="70" src="https://github.com/windyaprilianispace/windyaprilianispace/blob/main/assets/tailwindcss.svg"></code> &nbsp;&nbsp;
 <code><img height="100" src="https://github.com/windyaprilianispace/windyaprilianispace/blob/main/assets/swr.svg"></code>
@@ -15,8 +16,8 @@
 
 <p align="center">
 <code><img height="70" src="https://github.com/windyaprilianispace/windyaprilianispace/blob/main/assets/javascript.png"></code> &nbsp;&nbsp;
-<code><img height="70" src="https://github.com/windyaprilianispace/windyaprilianispace/blob/main/assets/tailwindcss.svg"></code> &nbsp;&nbsp;
-<code><img height="100" src="https://github.com/windyaprilianispace/windyaprilianispace/blob/main/assets/swr.svg"></code>
+<code><img height="70" src="https://github.com/windyaprilianispace/windyaprilianispace/blob/main/assets/html5.png"></code> &nbsp;&nbsp;
+<code><img height="80" src="https://github.com/windyaprilianispace/windyaprilianispace/blob/main/assets/css.png"></code>
 </p>
 
 ⭐️ From [Windy](https://github.com/windyaprilianispace)
